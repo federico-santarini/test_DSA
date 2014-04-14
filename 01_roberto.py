@@ -9,5 +9,4 @@ print math.sqrt(45)
 
 ########### Area Giovanni ##
 print "hello"
-
 ############################
